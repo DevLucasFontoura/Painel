@@ -1,11 +1,12 @@
 # Painel
 
-Fases:
-- Inicial ✅
-- Desenvolvimento
-- Testes
+Onde eu estou no projeto?
+- Fase Inicial ✅
+- Fase de Desenvolvimento
+- Fase de Testes
 - Versão Final
 - Documentação
+
 
 
 Linguagem Utilizada: Python
