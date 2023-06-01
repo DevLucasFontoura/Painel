@@ -7,8 +7,6 @@ Onde eu estou no projeto?
 - Versão Final
 - Documentação
 
-
-
-Linguagem Utilizada: Python
-
-Interface Utilizada: Custom Tkinter
+O que eu estou utilizando?
+- Python
+- Custom Tkinter
