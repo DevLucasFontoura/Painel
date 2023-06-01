@@ -1,7 +1,8 @@
 # Painel
 
-Fazes:
+Fases:
 - Inicial ✅
 - Desenvolvimento
 - Testes
 - Versão Final
+- Documentação
