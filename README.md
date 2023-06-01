@@ -6,3 +6,7 @@ Fases:
 - Testes
 - Versão Final
 - Documentação
+
+
+Linguagem Utilizada: Python
+Interface Utilizada: Custom Tkinter
