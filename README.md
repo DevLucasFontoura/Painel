@@ -2,7 +2,7 @@
 
 Onde eu estou no projeto?
 - Fase Inicial ✅
-- Fase de Desenvolvimento
+- Fase de Desenvolvimento ✅
 - Fase de Testes
 - Versão Final
 - Documentação
