@@ -11,12 +11,6 @@ O que eu estou utilizando?
 - Python
 - Tkinter
 
-Telas:
-- Tela inicial ✅
-- Tela Indicar Caminho ✅
-- Barra de Progresso ✅
-- Tela Final ✅
-
 
 ### Tela Inicial
 ![Captura de tela 2023-07-25 233214](https://github.com/DevLucasFontoura/Painel/assets/129316526/7c559632-e28b-4c50-8d0d-d3c091d958db)
