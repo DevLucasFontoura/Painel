@@ -14,7 +14,6 @@ O que eu estou utilizando?
 
 Telas:
 - Tela inicial ✅
-- Tela Indicar Caminho
-- Tela Aviso
-- Barra de Progresso
+- Tela Indicar Caminho ✅
+- Barra de Progresso ✅
 - Tela Final
