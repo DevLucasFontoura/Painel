@@ -39,8 +39,8 @@ O que eu estou utilizando?
 
 Onde eu estou no projeto?
 - Fase Inicial ✅
-- Fase de Desenvolvimento 
-- Fase de Testes 
+- Fase de Desenvolvimento ✅
+- Fase de Testes ✅
 - Versão Final 
 - Documentação 
 
