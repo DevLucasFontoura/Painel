@@ -30,3 +30,20 @@ O que eu estou utilizando?
 
 ### Terminal
 ![Captura de tela 2023-07-25 233419](https://github.com/DevLucasFontoura/Painel/assets/129316526/9d2d6f0b-d0ed-490a-8ba6-cd53c67b21b5)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+# Deletar Arquivos Duplicados
+
+Onde eu estou no projeto?
+- Fase Inicial ✅
+- Fase de Desenvolvimento ✅
+- Fase de Testes ✅
+- Versão Final ✅
+- Documentação ✅
+
+O que eu estou utilizando?
+- Python
+- Tkinter
