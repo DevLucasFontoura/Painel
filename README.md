@@ -35,14 +35,14 @@ O que eu estou utilizando?
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-# Deletar Arquivos Duplicados
+# Gerar QR CODE
 
 Onde eu estou no projeto?
 - Fase Inicial ✅
-- Fase de Desenvolvimento ✅
-- Fase de Testes ✅
-- Versão Final ✅
-- Documentação ✅
+- Fase de Desenvolvimento 
+- Fase de Testes 
+- Versão Final 
+- Documentação 
 
 O que eu estou utilizando?
 - Python
