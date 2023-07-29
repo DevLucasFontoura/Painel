@@ -47,3 +47,20 @@ Onde eu estou no projeto?
 O que eu estou utilizando?
 - Python
 - Tkinter
+
+
+### Tela Inicial
+![Captura de tela 2023-07-29 132055](https://github.com/DevLucasFontoura/Painel/assets/129316526/74166697-ee92-4f21-8de8-a1f72268ee29)
+
+
+### QR Code gerado
+![Captura de tela 2023-07-29 132149](https://github.com/DevLucasFontoura/Painel/assets/129316526/f5638eda-450b-474c-8c8b-2bae0074cfc7)
+
+
+
+### QR Code salvo
+![Captura de tela 2023-07-29 132218](https://github.com/DevLucasFontoura/Painel/assets/129316526/01837089-c588-44dd-85bb-652101cd4cdd)
+
+
+### Erro - Sem URL Válida
+![Captura de tela 2023-07-29 140525](https://github.com/DevLucasFontoura/Painel/assets/129316526/84bdd73f-f22f-4e2d-8a1a-ab7b418322d1)
