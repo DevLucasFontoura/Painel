@@ -1,4 +1,4 @@
-# Deletar Arquivos Duplicados
+# Deletar Arquivos Duplicados - D.A.D
 
 Onde eu estou no projeto?
 - Fase Inicial ✅
@@ -35,7 +35,7 @@ O que eu estou utilizando?
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-# Gerar QR CODE
+# Gerar QR CODE - G.QR.C
 
 Onde eu estou no projeto?
 - Fase Inicial ✅
